@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "TS1",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/07/peugggg2-300x300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 1,
+      "name": "TS2",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/10/Capture-d%E2%80%99e%CC%81cran-2018-12-19-a%CC%80-3.10.16-PM-300x300.png",
+      "desc": "Nice velo T-shirt",
+      "price": "$30",
+      "quantity": 1,
+      "selected": false
+    },
+    {
+      "id": 2,
+      "name": "TS3",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/07/Sans-titre-5-300x300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 3,
+      "selected": false
+    },
+    {
+      "id": 3,
+      "name": "TS4",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/07/Capture-d%E2%80%99e%CC%81cran-2017-08-21-a%CC%80-12.17.25-copie-300x300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 4,
+      "name": "TS5",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/07/maillot-cycliste-z-300x300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 5,
+      "name": "TS6",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/08/HTB14AHhSpXXXXb8XXXXq6xXFXXX9-300x300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 6,
+      "name": "TS7",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/08/Capture-d%E2%80%99e%CC%81cran-2017-09-07-a%CC%80-16.11.50-300x300.png",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 7,
+      "name": "TS8",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/08/hjbkj-300x300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 8,
+      "name": "TS9",
+      "image": "https://i.ebayimg.com/images/g/tqcAAOSwXIdcO4gp/s-l300.png",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 9,
+      "name": "TS10",
+      "image": "https://shop.vintageofbikes.com/wp-content/uploads/2017/08/kbj-300x300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 10,
+      "name": "TS11",
+      "image": "https://i.ebayimg.com/images/g/0IUAAOSw0NVbt6aG/s-l300.jpg",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    },
+    {
+      "id": 11,
+      "name": "TS12",
+      "image": "https://cdn.shopify.com/s/files/1/0012/0438/7852/products/peugeot-michelin-esso-shell-retro-cycling-jersey-cycling-jersey-outdoor-good-store-white-s-8_300x300.jpg?v=1574496722",
+      "desc": "Nice velo T-shirt",
+      "price": "$20",
+      "quantity": 2,
+      "selected": false
+    }
+  ]
+}
